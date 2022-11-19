@@ -1,4 +1,4 @@
-# Minute Repeater shortcut
+#Minute Repeater shortcut
 
 This is my first attempt at creating an Apple Shortcut, so it is a bit rought
 
